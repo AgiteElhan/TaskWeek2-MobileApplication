@@ -3,7 +3,6 @@
 **Nama:** Agit Elhandinnata  
 **NIM:** 1124160178  
 **Kelas:** Software Engineering 2 
-**Mata Kuliah:** Applikasi Mobile 
 
 
 ## Use Case
